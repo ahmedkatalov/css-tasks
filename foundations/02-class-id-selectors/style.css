@@ -1,0 +1,22 @@
+.number-1{
+    background-color: rgb(255, 83, 238);
+    font-family: 'Times New Roman', Times, serif
+}
+#nunber-1-id{
+    color: blue;
+    font-size: 36px;
+}
+.number-2{
+    background-color: rgb(255, 83, 238);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+}
+#number-2-id{
+    background-color: rgb(25, 247, 62);
+    font-size: 24px;
+    font-weight: 500;
+}
+.number-3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 83, 238);
+}
